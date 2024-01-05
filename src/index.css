@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Nerko+One&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background: rgb(244, 244, 244);
+}
